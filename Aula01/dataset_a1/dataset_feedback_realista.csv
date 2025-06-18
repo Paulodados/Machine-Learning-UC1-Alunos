@@ -1,0 +1,101 @@
+id,idade,renda,cidade,categoria,nota,feedback
+101,59,5703.13,Aracaju,A,5.8,Regular
+102,60,4428.98,Goiania,B,1.5,Ruim
+103,33,7537.78,Rio de Janeiro,A,7.1,Bom
+104,38,13865.77,Campo Grande,B,1.1,Ruim
+105,36,14794.37,Manaus,B,1.2,Ruim
+106,16,8727.25,Curitiba,A,2.4,Ruim
+107,,13672.13,Curitiba,B,7.7,Regular
+108,33,6322.93,Recife,B,3.9,Ruim
+109,31,6917.85,Recife,B,4.0,Ruim
+110,46,14776.13,Fortaleza,B,0.2,Ruim
+111,24,12511.51,Natal,B,6.6,Regular
+112,54,7549.81,Salvador,B,9.9,Bom
+113,33,10958.03,Natal,A,1.9,Ruim
+114,39,12407.48,Salvador,B,,Ruim
+115,68,5163.36,Palmas,A,0.7,Ruim
+116,,7633.7,Porto Alegre,B,6.4,Bom
+117,53,13553.66,Florianopolis,A,2.7,Ruim
+118,57,12735.94,Palmas,B,0.3,Ruim
+119,36,5021.39,Curitiba,A,8.7,Bom
+120,49,4267.46,Natal,B,0.7,Ruim
+121,59,3454.42,Palmas,B,7.5,Bom
+122,21,9990.68,Porto Alegre,A,3.2,Ruim
+123,35,6500.11,Brasilia,A,7.4,Bom
+124,48,1765.69,Recife,A,6.3,Bom
+125,67,3344.09,Fortaleza,A,4.7,Regular
+126,44,8156.76,Sao Paulo,A,9.7,Bom
+127,40,8280.4,Sao Paulo,A,2.1,Ruim
+128,40,10852.63,Aracaju,B,4.4,Regular
+129,54,12523.98,,B,9.3,Regular
+130,49,8669.23,Palmas,A,1.7,Ruim
+131,33,6723.02,Porto Alegre,B,4.2,Regular
+132,45,12193.84,Fortaleza,A,0.0,Ruim
+133,20,9239.75,Florianopolis,B,0.1,Ruim
+134,,3558.54,Recife,B,4.7,Regular
+135,56,10614.36,Porto Alegre,A,7.4,Bom
+136,39,13346.59,Campo Grande,A,8.5,Bom
+137,33,14938.77,Curitiba,B,6.1,Regular
+138,45,10480.28,Cuiaba,B,6.7,Regular
+139,,6453.36,Manaus,B,6.1,Bom
+140,22,,Natal,B,6.0,Regular
+141,34,15007.94,Salvador,B,9.6,Regular
+142,34,8223.54,,B,,Regular
+143,60,9753.94,,A,7.3,Bom
+144,16,4117.66,Cuiaba,A,8.0,Bom
+145,,3572.7,Natal,A,4.8,Regular
+146,,9066.09,Joao Pessoa,B,4.2,Ruim
+147,28,6196.44,Palmas,B,6.7,Regular
+148,38,7434.6,Aracaju,A,0.9,Ruim
+149,46,5008.78,Cuiaba,A,1.7,Ruim
+150,44,13275.36,Belo Horizonte,A,1.7,Ruim
+151,65,6410.8,Natal,B,6.5,Bom
+152,34,4974.62,Natal,B,2.0,Ruim
+153,16,6766.65,Natal,B,,Regular
+154,56,7444.74,Curitiba,B,3.6,Ruim
+155,18,10947.88,Teresina,A,0.0,Ruim
+156,32,14443.09,Manaus,A,0.4,Ruim
+157,30,,Goiania,B,0.7,Ruim
+158,44,9325.81,Goiania,A,0.1,Ruim
+159,56,11050.97,Florianopolis,A,8.4,Bom
+160,58,15009.41,Aracaju,A,1.5,Ruim
+161,70,11420.16,Belo Horizonte,A,7.0,Bom
+162,49,2688.95,Rio de Janeiro,A,,Bom
+163,64,12261.58,Teresina,B,4.9,Regular
+164,53,2200.02,Curitiba,B,7.0,Bom
+165,63,12322.31,Goiania,A,3.7,Ruim
+166,28,1885.59,Curitiba,B,4.0,Ruim
+167,,2598.4,Curitiba,B,0.0,Ruim
+168,21,3155.86,Salvador,A,4.8,Regular
+169,68,2350.83,Fortaleza,B,8.6,Bom
+170,30,1569.88,Aracaju,B,6.7,Bom
+171,45,14617.06,Belo Horizonte,B,1.2,Ruim
+172,33,14769.32,Salvador,B,3.2,Ruim
+173,45,11742.96,Sao Paulo,B,,Ruim
+174,34,8528.86,Rio de Janeiro,A,4.1,Ruim
+175,65,5945.79,Goiania,B,6.2,Bom
+176,31,2354.84,Aracaju,B,7.4,Regular
+177,62,8314.06,,A,3.7,Ruim
+178,20,4171.77,Palmas,B,3.1,Ruim
+179,23,8522.36,Maceio,A,9.4,Bom
+180,51,3430.64,Brasilia,A,8.4,Bom
+181,24,5940.76,Porto Alegre,B,6.7,Bom
+182,41,2190.86,Manaus,A,0.7,Ruim
+183,28,6873.62,Florianopolis,A,6.3,Bom
+184,46,6774.37,Sao Paulo,A,1.3,Ruim
+185,44,,Goiania,B,0.1,Ruim
+186,40,10450.3,Cuiaba,B,6.5,Regular
+187,66,4933.29,Palmas,B,3.3,Ruim
+188,50,2114.22,Curitiba,B,8.2,Regular
+189,61,1782.55,Aracaju,B,8.2,Bom
+190,70,14956.06,Campo Grande,B,7.0,Regular
+191,26,,Joao Pessoa,B,9.7,Bom
+192,40,8639.58,Curitiba,A,9.6,Bom
+193,47,5948.97,Florianopolis,B,9.2,Regular
+194,27,12263.58,Salvador,B,6.3,Regular
+195,35,8044.22,Belo Horizonte,A,8.8,Bom
+196,32,6237.23,Fortaleza,B,4.7,Ruim
+197,16,11226.81,Fortaleza,A,5.6,Ruim
+198,69,9663.8,Manaus,B,7.2,Regular
+199,30,5264.47,Manaus,A,8.3,Bom
+200,,4121.68,Porto Alegre,B,1.3,Ruim
